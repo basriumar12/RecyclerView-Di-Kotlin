@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin 2</string>
+    <string name="listview">simple listview</string>
+    <string name="recyler">recylerview</string>
+    <string name="textview">nama Buah</string>
+    <string name="txtbuah">Nama Buah</string>
+</resources>
